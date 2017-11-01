@@ -1,0 +1,14 @@
+0	Locate a sound you like and respond
+0	Sparce
+0	Synchronise with different musicians
+0	Oblivious
+0	Alternation
+1	img02.jpg
+1	random-international-9.jpg
+2	vid01.mov
+2	vid02.mov
+1	crop-circle-7.jpg
+1	signal.jpg
+2	Muybridge_race_horse_animated.mov
+2	PitchDrop.mov
+2	Traffics.mov

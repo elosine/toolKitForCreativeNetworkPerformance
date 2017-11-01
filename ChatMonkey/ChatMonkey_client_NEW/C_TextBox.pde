@@ -401,6 +401,7 @@ class TextBoxSet {
     for (int i=cset.size ()-1; i>=0; i--) {
       TextBox inst = cset.get(i);
      if(inst.ix==ix) inst.txt = val + "\n" + inst.txt;
+     //if(inst.ix==ix) inst.txt = val+ "\n";
     // if(inst.ix==ix) inst.txt = val;
     }
   } //end setdval method
